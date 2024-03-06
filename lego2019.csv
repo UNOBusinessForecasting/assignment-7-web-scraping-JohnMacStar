@@ -1,4 +1,4 @@
-Set,Price_Euro,Pieces,Minifigs
+ï»¿Set,Price_Euro,Pieces,Minifigs
 Corner Garage,179.99,2569,6
 Ford Mustang,169.99,1471,NaN
 NASA Apollo 11 Lunar Lander,99.99,1087,2
@@ -107,7 +107,7 @@ Riverside Houseboat,29.99,396,2
 Race Plane,29.23,333,1
 Fairground Carousel,48.73,595,3
 Twin-Rotor Helicopter,48.73,569,1
-Townhouse Pet Shop & Café,79.99,969,3
+Townhouse Pet Shop & CafÃ©,79.99,969,3
 Outback Cabin,29.23,305,2
 Year of the Pig,NaN,152,NaN
 MSC Cruises,NaN,181,NaN
@@ -134,8 +134,8 @@ NINJAGO Minifigure Set,12.99,59,4
 Spider-Man and the Museum Break-In,14.61,49,3
 Summer Celebration Minifigure Pack,12.99,45,4
 Mars Exploration Minifigure Pack,12.66,44,4
-LEGOLAND® Park,NaN,1336,11
-LEGOLAND® Driving School Cars,NaN,209,4
+LEGOLANDÂ® Park,NaN,1336,11
+LEGOLANDÂ® Driving School Cars,NaN,209,4
 Birthday Clown,9.99,150,NaN
 Valentine's Puppy,9.99,147,NaN
 Easter Chick,9.99,120,NaN
@@ -423,10 +423,10 @@ AT-ST Raider,59.99,540,4
 Yoda,119.99,1771,1
 Kylo Ren's Shuttle,119.99,1005,6
 Millennium Falcon,169.99,1351,7
-Anakin's Podracer – 20th Anniversary Edition,29.23,279,3
-Snowspeeder – 20th Anniversary Edition,39.99,309,4
-Clone Scout Walker – 20th Anniversary Edition,29.99,250,5
-Imperial Dropship – 20th Anniversary Edition,19.99,125,5
+Anakin's Podracer â€“ 20th Anniversary Edition,29.23,279,3
+Snowspeeder â€“ 20th Anniversary Edition,39.99,309,4
+Clone Scout Walker â€“ 20th Anniversary Edition,29.99,250,5
+Imperial Dropship â€“ 20th Anniversary Edition,19.99,125,5
 Mini Boost Droid Commander,NaN,62,3
 The Upside Down,199.99,2287,8
 Ferrari F40 Competizione,14.99,198,1
@@ -563,7 +563,7 @@ Elephant Girl Key Chain,4.99,NaN,NaN
 LEGO Greeting Card,4.99,40,1
 LEGO Toy Soldier Ornament,7.99,43,NaN
 Drinking cup,NaN,NaN,NaN
-LEGO® Minifigure Ceramic Mug,14.99,NaN,NaN
+LEGOÂ® Minifigure Ceramic Mug,14.99,NaN,NaN
 LEGO Brick Ice Cube Tray,9.74,NaN,NaN
 Ice Lollipop Tray,NaN,NaN,NaN
 LEGO Key Hanger,9.74,NaN,NaN
@@ -758,7 +758,7 @@ Summer Sailboat,NaN,37,NaN
 Arendelle Castle,NaN,62,NaN
 Beijing BrickHeadz,NaN,110,NaN
 Minifigure box,NaN,NaN,NaN
-Löwenstein Castle,NaN,2015,3
+LÃ¶wenstein Castle,NaN,2015,3
 Antique Fire Engine,NaN,1278,NaN
 Skyline Express,NaN,1365,6
 Wild West Saloon,NaN,1496,NaN
